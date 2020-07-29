@@ -1,6 +1,10 @@
 ![UMSTEK's github stats](https://github-readme-stats.vercel.app/api?username=umstek&show_icons=true&theme=buefy)
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umstek&hide=java,c,eagle,jupyter%20notebook,vhdl&layout=compact&theme=buefy)
+-->
+
+<!--
 **umstek/umstek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
