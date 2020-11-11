@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fumstek&count_bg=%23007DFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%E2%9A%A1&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fumstek&count_bg=%23007DFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%E2%9A%A1&edge_flat=true)](https://hits.seeyoufarm.com)  
+![Count](https://count.umstek.workers.dev/github)
